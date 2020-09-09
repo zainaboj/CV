@@ -25,8 +25,7 @@ Zainab Obaid">
  <li> Bachlur
  <li> High school
  
- <a  href=
-zainab.pdf> Get a copy of full resume here </a>
+ <a  href=zainab.pdf> Get a copy of full resume here </a>
 <p>
   <h3><table>
     <thead>
@@ -34,15 +33,10 @@ zainab.pdf> Get a copy of full resume here </a>
 <th width="120" align="Left">Master</th>
 <th width="120" align="Left">Bachlur</th>
 <th width="120" align="Left">High school</th>
-
 </thead>
-
-   </ul>
   </table>
-
   </h3>
-</p><a href=
-contactme.html> contactme </a>
+</p><a href=contactme.html> contactme </a>
 </head>
 <body>
 </body>
