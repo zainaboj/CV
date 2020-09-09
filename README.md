@@ -12,14 +12,6 @@
   <em>Information Thicnican  <a href="http://www.kau.edu.sa"> <strong>King Abdulaziz
   University</strong></a></em>
   <p>
-
-    <hr size="3"/>
-    <p>
-      I am a computer sciecse Master student at FCIT
-    </p>
-    <hr size=2 />
-    <br />
-    <hr size=12 />
    <ol type=‘I’>
  <li> Master
  <li> Bachlur
