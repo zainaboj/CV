@@ -1,6 +1,5 @@
 # Zainab Aljedaani Web Site
 
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
 
