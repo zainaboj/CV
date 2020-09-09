@@ -25,7 +25,7 @@ Zainab Obaid">
  <li> Bachlur
  <li> High school
  
- <a  href=zainab.pdf> Get a copy of full resume here </a>
+ <a href=zainab.pdf> Get a copy of full resume here </a>
 <p>
   <h3><table>
     <thead>
