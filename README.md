@@ -17,7 +17,6 @@
  <li> Bachlur
  <li> High school
  </ol>
-  <ul type=Disc>
  <li> Master
  <li> Bachlur
  <li> High school
@@ -33,10 +32,6 @@ zainab.pdf> Get a copy of full resume here </a>
 <th width="120" align="Left">High school</th>
 
 </thead>
-
-    <ul type=‘Disc’>
-
-   </ul>
   </table>
 
   </h3>
