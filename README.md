@@ -18,7 +18,7 @@
  <li> Bachlur
  <li> High school
  </ul>
- <a  href=
+<p> <a  href=
 zainab.pdf> Get a copy of full resume here </a>
 <p>
   <h3><table>
