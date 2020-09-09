@@ -15,12 +15,12 @@ Zainab Obaid">
   University</strong></a></em>
   <p>
 
-   <ol type=‘I’>
+   <ol type=I>
  <li> Master
  <li> Bachlur
  <li> High school
  </ol>
-  <ul type=‘Disc’>
+  <ul type=Disc>
  <li> Master
  <li> Bachlur
  <li> High school
