@@ -37,8 +37,6 @@ zainab.pdf> Get a copy of full resume here </a>
 
 </thead>
 
-    <ul type=‘Disc’>
-
    </ul>
   </table>
 
