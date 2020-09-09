@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
 <head>
 
-<img src="ZainabCV/1.jpg" alt="Zainab's Picture" width="300"
+<img src="1.jpg"
 
   <p>  <h1>  Zainab Obaid</h1>
   <em>Information Thicnican  <a href="http://www.kau.edu.sa"> <strong>King Abdulaziz
