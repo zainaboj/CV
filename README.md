@@ -17,7 +17,7 @@
  <li> Bachlur
  <li> High school
  </ol>
-  <ul type=‘Disc’>
+  <ul type=Disc>
  <li> Master
  <li> Bachlur
  <li> High school
